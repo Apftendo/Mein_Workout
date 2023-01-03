@@ -10,6 +10,4 @@ public class Start {
         s2.incrementSteps();
         System.out.println(s2.toString());
     }
-
-
 }
